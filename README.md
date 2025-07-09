@@ -4,7 +4,19 @@
 
 **UniClean** is a subscription-based and on-demand seasonal maintenance service targeting the Northeastern University neighborhood. The platform addresses key urban challenges such as snow accumulation in winter and leaf overgrowth in fall by offering reliable, affordable, and tech-driven solutions for residential and institutional customers.
 
----
+## Purpose
+UniClean aims to provide a year-round subscription service for seasonal property maintenance, with a primary focus on efficient and reliable snow removal. This initiative seeks to streamline home maintenance tasks that are often time-consuming and physically demanding, ensuring convenience and accessibility for residents in the Northeastern neighborhood. Additionally, UniClean creates flexible employment opportunities for local eligible workers, supporting seasonal job availability. Through a technology-driven platform, the service streamlines scheduling, service tracking, and customer feedback, ensuring a seamless and user-friendly experience for both residents and workers.
+
+## Objectives
+     Build a Reliable Subscription Service – Create an affordable, year-round maintenance plan that ensures hassle-free snow removal and seasonal property care, making life easier for residents.
+
+•	Make Winter Maintenance Effortless – Provide fast, professional snow removal and leaf clearing, keeping residential and university areas safe and accessible, no matter the season.
+•	Offer Meaningful Job Opportunities – Provide flexible, well-paying part-time jobs for local workers, ensuring steady employment during peak seasons while maintaining a dependable workforce.
+•	Simplify Scheduling with Technology – Develop an easy-to-use digital platform where residents can manage subscriptions, schedule services, receive real-time updates, and give feedback—all in one place.
+•	Keep Service Running Smoothly – Implement a well-organized shift system that balances workloads, guarantees timely service, and ensures teams are ready to handle heavy snowfalls when needed.
+•	Use Resources Wisely – Optimize manpower, equipment, and supply procurement to deliver top-quality service while keeping operations efficient and cost-effective.
+•	Ensure High-Quality Service – Set clear standards for response time, reliability, and customer satisfaction, so every job meets expectations and keeps the community happy.
+•	Test and Improve Before Full Launch – Start with a pilot phase in selected neighborhoods within a 2-mile radius of Northeastern, gather feedback, make improvements, and refine the service for a smooth full-scale rollout.
 
 ## Key Features
 
@@ -76,16 +88,53 @@
 
 ---
 
-## Team Roles
+## Budget
 
-- **Project Manager**: Dhruv Manchanda
-- **Finance**: Prajwal Apte
-- **Operations**: Deepthi Ramesh Dikshit, Krishna Sai Sumanth Pasupuleti
-- **Platform Development**: Manvith Belame Yogesh
-- **Customer Relations**: Sai Vittal Ayyalasomayajula
-- **Resource Management**: Shashank Nanaiah Kallichanda
 
----
+📊 Budget Allocation (Table 7.1.1)
+
+Expense Category	Estimated Budget ($)	Details
+Equipment Procurement	65,000	Snow blowers, leaf blowers, shovels, salt spreaders, rakes, brooms, safety gear
+Web Platform Development	5,000	Website with real-time scheduling, OTP, feedback system
+Workforce Salaries & Training	394,091	Hiring and training eligible students and workers
+Operations & Logistics	25,000	Fuel, transportation, equipment storage and maintenance
+Insurance & Compliance	5,000	Liability coverage, safety compliance, permits
+Legal Cost	10,000	Legal agreements, registrations, consultations
+Contingency	75,613.65	Emergency funds and unexpected maintenance costs
+Total Estimated Budget	$579,704.65	
+
+
+⸻
+
+💰 Revenue Model (Table 7.1.2.1)
+
+Subscription Type	Price ($)	Expected Users/Month	Projected Monthly Revenue ($)	Projected 6-Month Revenue ($)
+Basic	120	100	12,000	62,772
+Standard	160	75	12,000	62,772
+Premium	200	50	10,000	52,310
+One-Time Snow Removal	100	600 requests (total)	–	57,000
+One-Time Leaf Blowing	100	400 requests (total)	–	38,000
+Refunds (5% avg)	–	–	–1,700	–13,642.7
+Total	–	950 (combined)	$32,300	$259,211.3
+
+
+📦 Subscription Revenue Breakdown (Table 7.1.3.1)
+
+Subscription Type	Service Frequency	Price ($)	Expected Users	Total Monthly Revenue ($)
+Basic (6-hour response)	2 visits/month	120	100	12,000
+Standard (4-hour response)	4 visits/month	160	75	12,000
+Premium (1-hour response)	6 visits/month	200	50	10,000
+Total	–	–	213	$34,000
+
+
+📈 Revenue Projection Summary (Table 7.1.3.2)
+
+Service Type	Projected Half-Yearly Revenue ($)
+Snow Removal (One-Time Requests)	57,000
+Leaf Blowing (One-Time Requests)	38,000
+Subscription Plans	177,854
+Total Projected Revenue	$259,211.3
+
 
 ## Appendices
 
