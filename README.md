@@ -8,15 +8,15 @@
 UniClean aims to provide a year-round subscription service for seasonal property maintenance, with a primary focus on efficient and reliable snow removal. This initiative seeks to streamline home maintenance tasks that are often time-consuming and physically demanding, ensuring convenience and accessibility for residents in the Northeastern neighborhood. Additionally, UniClean creates flexible employment opportunities for local eligible workers, supporting seasonal job availability. Through a technology-driven platform, the service streamlines scheduling, service tracking, and customer feedback, ensuring a seamless and user-friendly experience for both residents and workers.
 
 ## Objectives
-     Build a Reliable Subscription Service – Create an affordable, year-round maintenance plan that ensures hassle-free snow removal and seasonal property care, making life easier for residents.
+Build a Reliable Subscription Service – Create an affordable, year-round maintenance plan that ensures hassle-free snow removal and seasonal property care, making life easier for residents.
 
-•	Make Winter Maintenance Effortless – Provide fast, professional snow removal and leaf clearing, keeping residential and university areas safe and accessible, no matter the season.
-•	Offer Meaningful Job Opportunities – Provide flexible, well-paying part-time jobs for local workers, ensuring steady employment during peak seasons while maintaining a dependable workforce.
-•	Simplify Scheduling with Technology – Develop an easy-to-use digital platform where residents can manage subscriptions, schedule services, receive real-time updates, and give feedback—all in one place.
-•	Keep Service Running Smoothly – Implement a well-organized shift system that balances workloads, guarantees timely service, and ensures teams are ready to handle heavy snowfalls when needed.
-•	Use Resources Wisely – Optimize manpower, equipment, and supply procurement to deliver top-quality service while keeping operations efficient and cost-effective.
-•	Ensure High-Quality Service – Set clear standards for response time, reliability, and customer satisfaction, so every job meets expectations and keeps the community happy.
-•	Test and Improve Before Full Launch – Start with a pilot phase in selected neighborhoods within a 2-mile radius of Northeastern, gather feedback, make improvements, and refine the service for a smooth full-scale rollout.
+•	Make Winter Maintenance Effortless – Provide fast, professional snow removal and leaf clearing, keeping residential and university areas safe and accessible, no matter the season.<br>
+•	Offer Meaningful Job Opportunities – Provide flexible, well-paying part-time jobs for local workers, ensuring steady employment during peak seasons while maintaining a dependable workforce.<br>
+•	Simplify Scheduling with Technology – Develop an easy-to-use digital platform where residents can manage subscriptions, schedule services, receive real-time updates, and give feedback—all in one place.<br>
+•	Keep Service Running Smoothly – Implement a well-organized shift system that balances workloads, guarantees timely service, and ensures teams are ready to handle heavy snowfalls when needed.<br>
+•	Use Resources Wisely – Optimize manpower, equipment, and supply procurement to deliver top-quality service while keeping operations efficient and cost-effective.<br>
+•	Ensure High-Quality Service – Set clear standards for response time, reliability, and customer satisfaction, so every job meets expectations and keeps the community happy.<br>
+•	Test and Improve Before Full Launch – Start with a pilot phase in selected neighborhoods within a 2-mile radius of Northeastern, gather feedback, make improvements, and refine the service for a smooth full-scale rollout.<br>
 
 ## Key Features
 
