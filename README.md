@@ -124,11 +124,11 @@ Build a Reliable Subscription Service – Create an affordable, year-round maint
 
 ## Appendices
 
-- **WBS** – Detailed work breakdown of all tasks
-- **Gantt Chart** – Project timeline and milestones
-- **RACI Matrix** – Role-based task ownership
-- **Budget Breakdown** – Equipment, labor, software costs
-- **Web Stack Breakdown** – AWS EC2, RDS, SES, CloudFront, Stripe
+- [WBS](https://docs.google.com/spreadsheets/d/1V18IXpq-1ajmfjlLcIQCGfiEX7vjKvwF/edit?usp=sharing&ouid=115266014417042850416&rtpof=true&sd=true) – Detailed work breakdown of all tasks
+- [Gantt Chart](resources/readme.md) – Project timeline and milestones
+- [Resource allocation](https://docs.google.com/spreadsheets/d/1eaekENk1MwoavsSKCnQ2AW7pfjIHBaY9/edit?usp=sharing&ouid=115266014417042850416&rtpof=true&sd=true) - Breakdown of resources required
+- [RACI Matrix](https://docs.google.com/spreadsheets/d/17eskB-duGPNqCkTDkewUMXVV3UWMeoM2/edit?usp=sharing&ouid=115266014417042850416&rtpof=true&sd=true) – Role-based task ownership
+- [Budget Breakdown](https://docs.google.com/spreadsheets/d/15njM8PrHNZLhz5vF1z3loJZGFezF5iMj/edit?usp=sharing&ouid=115266014417042850416&rtpof=true&sd=true) – Equipment, labor, software costs
 
 ---
 
