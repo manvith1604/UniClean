@@ -1,5 +1,3 @@
-# UniClean
-
 # UniClean: One-Click Solution for Snow and Beyond
 
 ## Overview
